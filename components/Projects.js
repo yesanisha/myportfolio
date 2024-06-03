@@ -17,7 +17,7 @@ const Projects = () => {
             <li>Ensured robust form validation to maintain data integrity and improve user experience.</li>
             <li>Developed a dummy payment portal to simulate transaction processes, enhancing realism in testing.</li>
           </ul>
-          <a href="https://github.com/yourusername/canteen-management-system" target="_blank" rel="noopener noreferrer" className={styles.projectLink}>Repository Link</a>
+          <a href="https://github.com/yesanisha/canteen-management-system" target="_blank" rel="noopener noreferrer" className={styles.projectLink}>Repository Link</a>
         </div>
         <div className={styles.projectCard}>
           <h3>Refurbished Decathlon Website</h3>
@@ -30,7 +30,7 @@ const Projects = () => {
             <li>The repository contains the main HTML structure, CSS styling for layout and design, and JavaScript for enhancing user interaction.</li>
             <li>This project serves as an example of building a visually appealing and responsive website with basic web development technologies.</li>
           </ul>
-          <a href="https://github.com/yourusername/refurbished-decathlon-website" target="_blank" rel="noopener noreferrer" className={styles.projectLink}>Repository Link</a>
+          <a href="https://github.com/yesanisha/refurbished-decathlon-website" target="_blank" rel="noopener noreferrer" className={styles.projectLink}>Repository Link</a>
         </div>
       </div>
     </section>
