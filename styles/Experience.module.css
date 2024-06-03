@@ -1,0 +1,31 @@
+.experience {
+  padding: 2em;
+  background-color: #ffffff;
+  margin: 2em 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.experienceCard {
+  padding: 1.5em;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.experienceCard h3 {
+  margin-top: 0;
+}
+
+.experienceCard p {
+  margin: 0.5em 0;
+}
+
+.experienceCard ul {
+  padding-left: 1em;
+  margin: 0.5em 0;
+}
+
+.experienceCard li {
+  margin-bottom: 0.5em;
+}
